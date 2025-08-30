@@ -43,9 +43,9 @@ Traditional language models rely solely on pre-trained knowledge, which can lead
 
 ## 🖼 **Architecture**
 
-![RAG Pipeline](https://raw.githubusercontent.com/openai/gpt-arch-diagrams/main/rag_pipeline_example.png)
 
-*(Diagram: User Query → Retriever → Context → Language Model → Answer)*
+
+*(User Query → Retriever → Context → Language Model → Answer)*
 
 ---
 
