@@ -1,7 +1,3 @@
-Here’s a **ready-to-paste README.md** version in full Markdown format, optimized for GitHub:
-
----
-
 # **RAG Implementation with Language Insights**
 
 ## 📌 **Project Overview**
@@ -114,8 +110,3 @@ pip install torch transformers faiss-gpu langchain sentence-transformers
 * [Rust Official Docs](https://www.rust-lang.org/)
 * [Java Official Docs](https://docs.oracle.com/javase/)
 * [Hugging Face – RAG Models](https://huggingface.co/docs/transformers/model_doc/rag)
-
----
-
-✅ **This version uses an external architecture diagram link for GitHub rendering.**
-Do you want me to **replace the external link with your own custom diagram** (based on your RAG setup) and give you the **Markdown with a local image reference** so you can upload it to your repo?
